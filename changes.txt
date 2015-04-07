@@ -1,3 +1,12 @@
+- v0.3 - 2013-09-19
+- Move MPU-9150 INT pin to D7 for hardware interrupt
+- Add 0.1µF cap to VCC input of GPS unit
+
+------------------------------------------------------------------------
+- v0.2 - 2013-07-10
+- Add serial flash storage
+- Add GPS antenna port
+
 ------------------------------------------------------------------------
 - v0.1 - 2013-02-10
 - Contributors
